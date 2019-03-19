@@ -14,6 +14,7 @@
 | Problem | Link | Solution Status | Solution Link|
 |------------ | ------------- | :-------------: | -------------|
 |1. Multiples of 3 and 5 |[Multiples of 3 and 5](https://projecteuler.net/problem=1)|Done|[Solution 1](/project_euler_1.js)|
+|2. Even Fibonacci numbers |[Even Fibonacci numbers](https://projecteuler.net/problem=2)|Done|[Solution 2](/project_euler_2.js)|
 
 
 #### Contact
